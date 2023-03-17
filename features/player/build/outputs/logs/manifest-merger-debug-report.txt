@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml:2:1-41
+INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml:2:1-41
+INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml:2:1-41
+	package
+		ADDED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml:2:11-39
+		INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+		INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml:2:1-41
+uses-sdk
+INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+		INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
+		INJECTED from /Users/dmitrii.motpan/AndroidStudioProjects/ModularizationExample/features/player/src/main/AndroidManifest.xml
